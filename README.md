@@ -27,7 +27,7 @@ Description
 	 Change any text you want to fit your needs
      Replace the images with your own and simply rename them with the current names of the pictures
 	 
-	 ![screenshot] (https://github.com/st8ingenious/countdown_ecard_website/blob/master/screenshot.jpg?raw=true)
+![screenshot] (https://github.com/st8ingenious/countdown_ecard_website/blob/master/screenshot.jpg?raw=true)
 	 
 	 
  Original can be found at https://github.com/st8ingenious/countdown_ecard_website
