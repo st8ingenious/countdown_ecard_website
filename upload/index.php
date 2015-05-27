@@ -124,11 +124,9 @@
  <div class="divBackgroundImage" style="background-image: url(./mainimage.jpg);">
  </div>
  <div class="divText">
-<?php $target = mktime(1, 0, 0, 10, 30, 2015) ;                                          //SET DATE                        
+<?php $target = mktime(3, 0, 0, 10, 30, 2015) ;                                          //SET DATE                        
 $today = time () ; $difference =($target-$today) ; 
-echo $hour;
 $year = 23667694; $progress = 100 - ($difference/$year*100); 
-$days = (int)($difference/86400) ;
 ?> 
 <img src="fb.png" width="379" height="260" alt="img" />
 <span class="txt1">
@@ -161,7 +159,7 @@ setInterval(function () {
 	localTime = d.getTime(); 
 	localOffset = d.getTimezoneOffset() * 60000;
 	utc = localTime + localOffset;
-	offset = 1;  
+	offset = 3;  
     athens = utc + (3600000*offset);
     var current_date = new Date(athens);
     var seconds_left = (target_date - current_date) / 1000;
