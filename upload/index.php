@@ -18,7 +18,10 @@
     _______________________________________________________________________
    
 	 Disclaimer
-	 All pictures used on this project have been found on Google or from other different sources all over the Internet, and are assumed to be in public domain and are displayed under the fair use principle. If you are the owner of the images and you believe that their use is violating any copyright law, please contact me at info@bettercallstathis.com and I will delete them asap.
+	 All pictures used on this project have been found on Google or from other different sources all over the Internet, 
+	 and are assumed to be in public domain and are displayed under the fair use principle. If you are the owner of the 
+	 images and you believe that their use is violating any copyright law, please contact me at info@bettercallstathis.com 
+	 and I will delete them asap.
 
 	 
 	 Description     
@@ -121,7 +124,7 @@
 </div>  
 <div class="divWholePage">
 <div class="divSection">
- <div class="divBackgroundImage" style="background-image: url(./mainimage.jpg);">
+ <div class="divBackgroundImage" style="background-image: url(./bgimg.jpg);">
  </div>
  <div class="divText">
 <?php $target = mktime(3, 0, 0, 10, 30, 2015) ;                                          //SET DATE                        
@@ -179,7 +182,7 @@ setInterval(function () {
 </script>
 <span  class="txt3">
 <br><br><br>
-©2015 Made by bettercallstathis.com <br>
+©2015 Website by <a href="mailto:sites@ekladis.com">ekladis</a><br>
  <a href="https://github.com/st8ingenious">Open Source</a> 
 <br>
 </span>
